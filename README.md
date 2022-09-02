@@ -1,6 +1,6 @@
 # Simple-Inventory-App
-# Simple inventory App using Java and SQLite database,
-## Date Picker or Calendar Picker, Image Picker, Simple CRUD databases
+## Simple inventory App using Java and SQLite database,
+### Date Picker or Calendar Picker, Image Picker, Simple CRUD databases
 
 ![Screenshot 2022-09-02 154202](https://user-images.githubusercontent.com/82744803/188104364-8bbe00f3-beb2-4942-9cbd-2292e56a7c9e.png)
 ![Screenshot 2022-09-02 154141](https://user-images.githubusercontent.com/82744803/188104376-0f47d79a-73da-4546-b7c2-207fd625ae68.png)
