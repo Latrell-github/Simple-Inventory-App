@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SimpleInventory</string>
+    <string name="simple_inventory">Simple Inventory</string>
+    <string name="start">Start</string>
+    <string name="welcome">WELCOME</string>
+    <string name="insert_product">Insert Product</string>
+    <string name="view_product">View Product</string>
+    <string name="simple_inventory_system">Simple Inventory System</string>
+    <string name="name_of_product">Name of Product</string>
+    <string name="product">Product</string>
+    <string name="unit">Unit</string>
+    <string name="price">Price</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="available">Available</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="inventory_cost">Inventory Cost</string>
+    <string name="add_image">Add Image</string>
+    <string name="submit">Submit</string>
+    <string name="available_inventory">Available Inventory</string>
+    <string name="product_inventory">Product Inventory</string>
+    <string name="add_cost">Add Cost</string>
+</resources>
